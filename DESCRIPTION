@@ -13,3 +13,5 @@ RoxygenNote: 6.0.1
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/tuotuoZ/attention_in_DNN
+BugReports: https://github.com/tuotuoZ/attention_in_DNN/issues

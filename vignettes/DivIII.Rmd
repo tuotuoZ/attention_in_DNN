@@ -1,8 +1,10 @@
 ---
-title: "Vignette Title"
-author: "Vignette Author"
+title: "Attention in Neural Network"
+author: "Tony Zhang"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: 
+  md_document:
+    variant: markdown_github
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}
